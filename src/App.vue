@@ -3,7 +3,6 @@
   <component :is="layout">
     <!-- Render view -->
     <router-view/>
-    <h2>{{ layout }}</h2>
   </component>
 </template>
 
